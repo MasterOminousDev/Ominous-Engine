@@ -20,3 +20,6 @@ Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
+
+
+Thanks for taking a look at my young engine lol!
