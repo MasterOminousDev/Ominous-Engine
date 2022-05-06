@@ -30,3 +30,7 @@ gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg-
 
 
 get ready for the first release of the engine!!!!!!! (lol)
+
+why am i reverting stuff? just to suffer
+
+Nah im just kidding i am reverting some stuff to make the engine more stable.
