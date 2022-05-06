@@ -26,7 +26,7 @@ Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
 Thanks for taking a look at my young engine lol!
 
-ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg-
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg-
 
 
-get ready for the first release of the engine!!
+get ready for the first release of the engine!!!!!!! (lol)
