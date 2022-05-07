@@ -1,5 +1,7 @@
 # Friday Night Funkin: Ominous Engine
 
+![Ominous Engine Logo](OminousEngineLogo.png)
+
 This is the repository for Friday Night Funkin: Ominous Engine, a reworked engine made for a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
@@ -42,12 +44,12 @@ flixel-ui
 hscript
 newgrounds
 ```
-So for each of those type `haxelib install [library]` so shit like `haxelib install newgrounds`
+So for each of those type `haxelib install [library]` so for example `haxelib install newgrounds`
 
 You'll also need to install a couple things that involve Gits. To do this, you need to do a few things first.
 1. Download [git-scm](https://git-scm.com/downloads). Works for Windows, Mac, and Linux, just select your build.
 2. Follow instructions to install the application properly.
-3. Run `haxelib git polymod https://github.com/larsiusprime/polymod.git` to install Polymod.
+3. Run `haxelib git polymod https://github.com/MasterOminousDev/polymod.git` to install Polymod.
 4. Run `haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc` to install Discord RPC.
 
 You should have everything ready for compiling the game! Follow the guide below to continue!
@@ -80,6 +82,7 @@ NOTE: If you see any messages relating to deprecated packages, ignore them. They
 
 Once you have all those installed, it's pretty easy to compile the game. You just need to run `lime test html5 -debug` in the root of the project to build and run the HTML5 version. (command prompt navigation guide can be found here: [https://ninjamuffin99.newgrounds.com/news/post/1090480](https://ninjamuffin99.newgrounds.com/news/post/1090480))
 To run it from your desktop (Windows, Mac, Linux) it can be a bit more involved. For Linux, you only need to open a terminal in the project directory and run `lime test linux -debug` and then run the executable file in export/release/linux/bin. For Windows, you need to install Visual Studio Community 2019. While installing VSC, don't click on any of the options to install workloads. Instead, go to the individual components tab and choose the following:
+
 * MSVC v142 - VS 2019 C++ x64/x86 build tools
 * Windows SDK (10.0.17763.0)
 
