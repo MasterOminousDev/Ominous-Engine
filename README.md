@@ -90,4 +90,4 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 
 
-## ALL OF THESE ARE IN `building.md` BUT SOME OF THE STUFF ARENT.
+## ALL OF THESE STUFF FOR COMPILING ARE IN `building.md` EXCEPT THE API KEY
