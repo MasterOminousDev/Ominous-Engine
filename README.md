@@ -18,7 +18,7 @@ IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN 
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
 - [MasterOminousDev (me!)](https://github.com/MasterOminousDev) - the idiot that made the engine
 
-This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
+This game was made with love to Newgrounds and its community.
 
 ## Build instructions
 
