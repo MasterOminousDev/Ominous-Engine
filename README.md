@@ -6,7 +6,8 @@ Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
 Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
-IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
+IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL PLS BUT ITS NOT REALLY IMPORTANT BUT PEOPLE WHO WANTS TO COMPILE A MOD'S SOURCE CODE WOULD LIKE YOU TO OPEN SOURCE YOUR MODS!
+
 
 ## Credits / shoutouts
 
@@ -25,7 +26,7 @@ IF YOU WANT TO JUST DOWNLOAD AND INSTALL AND PLAY THE GAME NORMALLY, GO TO ITCH.
 
 https://ninja-muffin24.itch.io/funkin
 
-IF YOU WANT TO COMPILE THE GAME YOURSELF, CONTINUE READING!!!
+IF YOU WANT TO COMPILE THE GAME YOURSELF, READ `building.md` OR CONTINUE READING!!!
 
 ### Installing the Required Programs
 
@@ -57,7 +58,7 @@ At the moment, you can optionally fix the transition bug in songs with zoomed-ou
 ### Ignored files
 
 I gitignore the API keys for the game so that no one can nab them and post fake high scores on the leaderboards. But because of that the game/engine
-doesn't compile without it.
+doesn't compile without it. But maybe I wae dumb because people can Nab them by copying them from here.
 
 Just make a file in `/source` and call it `APIStuff.hx`, and copy & paste this into it
 
@@ -90,4 +91,4 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 
 
-## ALL OF THESE STUFF FOR COMPILING ARE IN `building.md` EXCEPT THE API KEY
+## ALL OF THESE STUFF FOR COMPILING ARE IN `building.md` EXCEPT THE API KEYS SO READ `building.md`IF YOU WANT TO COMPILE!!
