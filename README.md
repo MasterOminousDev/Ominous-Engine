@@ -60,7 +60,7 @@ At the moment, you can optionally fix the transition bug in songs with zoomed-ou
 ### Ignored files
 
 I gitignore the API keys for the game so that no one can nab them and post fake high scores on the leaderboards. But because of that the game/engine
-doesn't compile without it. But maybe I wae dumb because people can Nab them by copying them from here.
+doesn't compile without it. But maybe I was dumb because people can Nab them by copying them from here.
 
 Just make a file in `/source` and call it `APIStuff.hx`, and copy & paste this into it
 
