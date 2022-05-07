@@ -57,24 +57,6 @@ You should have everything ready for compiling the game! Follow the guide below 
 At the moment, you can optionally fix the transition bug in songs with zoomed-out cameras.
 - Run `haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons` in the terminal/command-prompt.
 
-### Ignored files
-
-I gitignore the API keys for the game so that no one can nab them and post fake high scores on the leaderboards. But because of that the game/engine
-doesn't compile without it. But maybe I was dumb because people can Nab them by copying them from here.
-
-Just make a file in `/source` and call it `APIStuff.hx`, and copy & paste this into it
-
-```haxe
-package;
-
-class APIStuff
-{
-	public static var API:String = "";
-	public static var EncKey:String = "";
-}
-
-```
-
 
 
 ### Compiling game
@@ -94,4 +76,4 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 
 
-## ALL OF THESE STUFF FOR COMPILING ARE IN `building.md` EXCEPT THE API KEYS SO READ `building.md`IF YOU WANT TO COMPILE!!
+## ALL OF THESE STUFF FOR COMPILING ARE IN `building.md`
