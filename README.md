@@ -76,4 +76,4 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 
 
-## ALL OF THESE STUFF FOR COMPILING ARE IN `building.md`
+### ALL OF THESE STUFF FOR COMPILING ARE IN `building.md` I SUGGEST YOU TO GO AND READ `building.md`
