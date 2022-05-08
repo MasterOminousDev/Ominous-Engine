@@ -3,8 +3,8 @@
 ![Ominous Engine Logo](OminousEngineLogo.png)
 
 
-## If you want to contribute Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/CONTRIBUTING.md)
-## If you want to build Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/docs/building.md)
+### If you want to contribute Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/CONTRIBUTING.md)
+### If you want to build Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/docs/building.md)
 
 This is the repository for Friday Night Funkin: Ominous Engine, a reworked engine made for a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
