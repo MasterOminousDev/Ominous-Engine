@@ -25,10 +25,11 @@ Always remember that this is a **mod** for FNF. You can call it a **engine** tho
 
 ## Credits / shoutouts
 
-- [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
-- [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
-- [Kawaisprite](https://twitter.com/kawaisprite) - Musician
-- [MasterOminousDev (me!)](https://github.com/MasterOminousDev) - the idiot that made the engine (I made everything)
+- [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer for FNF
+- [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art for FNF
+- [Kawaisprite](https://twitter.com/kawaisprite) - Musician for FNF
+- [KadeDev](https://github.com/KadeDev) - code (that i borrowed for the first update)
+- [MasterOminousDev (me!)](https://github.com/MasterOminousDev) - the idiot that made the engine (I made everything) (especially i added a code)
 
 This game was made with love to Newgrounds and its community.
 
