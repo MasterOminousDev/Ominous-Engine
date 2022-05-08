@@ -5,7 +5,7 @@
 ## Engine Information
 
 ### If you want to contribute Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/CONTRIBUTING.md) first.
-### If you want to build Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/docs/building.md) or continue
+### If you want to build Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/docs/building.md) or continue reading
 
 
 # Friday Night Funkin'
