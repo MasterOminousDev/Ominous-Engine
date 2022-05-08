@@ -1,10 +1,14 @@
-# Friday Night Funkin: Ominous Engine
+
 
 ![Ominous Engine Logo](OminousEngineLogo.png)
 
+## Engine Information
 
-### If you want to contribute Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/CONTRIBUTING.md)
+### If you want to contribute Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/CONTRIBUTING.md) first.
 ### If you want to build Ominous Engine read [this](https://github.com/MasterOminousDev/Ominous-Engine/blob/stable/docs/building.md)
+
+
+# Friday Night Funkin'
 
 This is the repository for Friday Night Funkin: Ominous Engine, a reworked engine made for a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
@@ -13,6 +17,10 @@ Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
 Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
 IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL PLS BUT ITS NOT REALLY IMPORTANT BUT PEOPLE WHO WANTS TO COMPILE A MOD'S SOURCE CODE WOULD LIKE YOU TO OPEN SOURCE YOUR MODS!
+
+## Ominous Engine
+
+Always remember that this is a **mod** for FNF. You can call it a **engine** though i don't really mind.
 
 
 ## Credits / shoutouts
