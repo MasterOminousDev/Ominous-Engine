@@ -21,10 +21,20 @@ If you downloaded this from any other place than https://github.com/MasterOminou
 You might be in DANGER!!! 
 
 The GitHub release is the only official source for the desktop (PC, Mac, Linux) versions of the game!
-As of right now, the game is FREE! If you paid for it, you got SCAMMED!
+As of right now, the engine is FREE! If you paid for it, you got SCAMMED!
 
-Now that that's out of the way....
+
 THANKS FOR DOWNLOADING THIS ENGINE. 
+
+------------------------
+   MODDING INFORMATION
+------------------------
+
+Be careful of what mods you download.
+
+Some mods might harm you or your computer.
+
+Some might contain 69.
 
 ------------------------
     PERMISSIONS 
@@ -34,16 +44,16 @@ Little info, you have FULL PERMISSION to stream, letsplay, meme, post, do WHATEV
 Use the music in videos you do, use art, ANYTHING. MAKE ANYTHING AS YOU WANT.
 
 
-Support fnf on Itch.io - https://ninja-muffin24.itch.io/funkin
+Support the original project for Friday Night Funkin on Itch.io - https://ninja-muffin24.itch.io/funkin
 
-If not no biggie we don't fully hate you only kinda no biggie.
+
 
 
 --------------------
     INFO AND LINKS
 --------------------
 
-If you wanna dig around, the engine is open source on Github
+If you wanna dig around, the engine is open source on Github (not fully tho)
 
 https://github.com/MasterOminousDev/Ominous-Engine
 
@@ -75,7 +85,6 @@ Go to newgrounds, ninjamuffin99 love newgrounds. newgrounds good. How many times
 ninjamuffin99 loves Tom Fulp.
 
 - Zack Loopy
-
 
                                                                                   
  _   _   _____   _      _    ____   ____     ___    _   _   _   _   ____    ____  
