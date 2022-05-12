@@ -15,8 +15,8 @@
 |   |  | (_| (_| \/   | ) | (_) | ) |_   \/ (- (_| | ) 
                  /          _/           /             
 
-HEY
-Thanks for downloadin Friday Night Funkin': Ominous Engine
+Hiii!
+Thanks for downloading Friday Night Funkin': Ominous Engine
 If you downloaded this from any other place than https://github.com/MasterOminousDev/Ominous-Engine
 You might be in DANGER!!! 
 
@@ -39,11 +39,13 @@ Support fnf on Itch.io - https://ninja-muffin24.itch.io/funkin
 If not no biggie we don't fully hate you only kinda no biggie.
 
 
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+--------------------
     INFO AND LINKS
+--------------------
 
-If you wanna dig around, the game is fully open source on Github
-https://github.com/ninjamuffin99/Funkin
+If you wanna dig around, the engine is open source on Github
+
+https://github.com/MasterOminousDev/Ominous-Engine
 
 It's made in Haxe / HaxeFlixel
 
@@ -51,16 +53,17 @@ MUSIC IS ON SPOTIFY AND BANDCAMP AND EVERYWHERE ELSE PROB TOO
 https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
 
 
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+--------------------------
     FINAL WORDS / CREDITS
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+---------------------------
 
-Friday Night Funkin' is made by ninjamuffin99 (programmer), PhantomArcade (animator), kawaisprite (musician), and evilsk8r (artist)
+Friday Night Funkin': Ominous Engine is made by ninjamuffin99 (programmer), PhantomArcade (animator), kawaisprite (musician), evilsk8r (artist), and MasterOminousDev (creator of Ominous Engine)
 
 https://twitter.com/ninja_muffin99
 https://twitter.com/phantomarcade3k
 https://twitter.com/kawaisprite
 https://twitter.com/evilsk8r
+https://twitter.com/OminousDeveloop
 
 Pico is created by Tom Fulp
 Skid and Pump are created by SrPelo
@@ -68,7 +71,7 @@ BassetFilms did music for lemon monster songs
 
 
 Final important thing, this is made with the support and love to and from Newgrounds.com.
-Go to newgrounds, we love newgrounds. newgrounds good. How many times do I gotta damn say it. Newgrounds newgrounds newgrounds newgrounds
+Go to newgrounds, ninjamuffin99 love newgrounds. newgrounds good. How many times do I gotta say it. Newgrounds newgrounds newgrounds newgrounds
 ninjamuffin99 loves Tom Fulp.
 
 - Zack Loopy
