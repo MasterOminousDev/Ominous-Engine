@@ -16,34 +16,31 @@
                  /          _/           /             
 
 HEY
-Thanks for downloadin Friday Night FUNKIN'
-If you downloaded this from any other place than ninja-muffin24.itch.io/FUNKIN
+Thanks for downloadin Friday Night Funkin': Ominous Engine
+If you downloaded this from any other place than https://github.com/MasterOminousDev/Ominous-Engine
 You might be in DANGER!!! 
 
-The Itch.io release is the only official source for the desktop (PC, Mac, Linux) versions of the game!
+The GitHub release is the only official source for the desktop (PC, Mac, Linux) versions of the game!
 As of right now, the game is FREE! If you paid for it, you got SCAMMED!
 
 Now that that's out of the way....
-THANKS FOR DOWNLOADIN. 
+THANKS FOR DOWNLOADING THIS ENGINE. 
 
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
-    PERMISSIONS XDDDD
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+------------------------
+    PERMISSIONS 
+------------------------
 
-Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game.
-Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO.
+Little info, you have FULL PERMISSION to stream, letsplay, meme, post, do WHATEVER you want with the game.
+Use the music in videos you do, use art, ANYTHING. MAKE ANYTHING AS YOU WANT.
 
-If you do make any sort of video, it would be a bro move if you linked the game and spread the word
 
-Play On Newgrounds - https://www.newgrounds.com/portal/view/770371
-Support on Itch.io - https://ninja-muffin24.itch.io/funkin
+Support fnf on Itch.io - https://ninja-muffin24.itch.io/funkin
 
 If not no biggie we don't fully hate you only kinda no biggie.
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
     INFO AND LINKS
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
 If you wanna dig around, the game is fully open source on Github
 https://github.com/ninjamuffin99/Funkin
@@ -72,11 +69,11 @@ BassetFilms did music for lemon monster songs
 
 Final important thing, this is made with the support and love to and from Newgrounds.com.
 Go to newgrounds, we love newgrounds. newgrounds good. How many times do I gotta damn say it. Newgrounds newgrounds newgrounds newgrounds
-I love Tom Fulp.
+ninjamuffin99 loves Tom Fulp.
 
-- Cameron ♪(´▽｀)
+- Zack Loopy
 
-##################################################################################
+
                                                                                   
  _   _   _____   _      _    ____   ____     ___    _   _   _   _   ____    ____  
 | \ | | | ____| | |    | |  / ___| |  _ \   / _ \  | | | | | \ | | |  _ \  / ___| 
@@ -86,7 +83,6 @@ I love Tom Fulp.
  _       _  _     ___    ___       __              _       _  _       _        _  
 |_ |  | |_ |_) \_/ | |_|  |  |\ | /__     |_      |_ |  | |_ |_) \_/ / \ |\ | |_  
 |_  \/  |_ | \  |  | | | _|_ | \| \_| o   |_)\/   |_  \/  |_ | \  |  \_/ | \| |_ o
-                                      /      /                                    
-                                                                                  
-##################################################################################
-i stole this from stamper.
+                                    
+                
+Credits to stamper. Idk his name tbh lol.
