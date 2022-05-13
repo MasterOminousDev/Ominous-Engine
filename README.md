@@ -93,3 +93,11 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 Check the docs folder for information
 
 Read `building.md` to compile, it has all the information that you need for compiling the game.
+
+
+
+# Play the game on android
+
+For Ominous Engine on android, go to the `android` branch 
+
+I know that the funkin-android will pop up, that's because i will start doing android port when I finish PC Port
