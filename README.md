@@ -71,7 +71,8 @@ https://github.com/luckydog7/Funkin-android/releases
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
 - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
-- [luckydog (me!)](https://github.com/luckydog7) - android port
+- [luckydog](https://github.com/luckydog7) - android port of fnf
+- [MasterOminousDev](https://github.com/MasterOminousDev) - android port for Ominous Engine
 
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
 
