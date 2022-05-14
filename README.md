@@ -122,4 +122,4 @@ class FunkinKeys;
 
 ```
 
-This code is invalid but it helps increasing FPS
+This code is invalid but it helps with mods.
