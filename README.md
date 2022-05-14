@@ -37,9 +37,10 @@ This game was made with love to Newgrounds and its community.
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
-IF YOU WANT TO JUST DOWNLOAD AND INSTALL AND PLAY THE GAME NORMALLY, GO TO ITCH.IO TO DOWNLOAD THE GAME FOR PC, MAC, AND LINUX!!
+IF YOU WANT TO JUST DOWNLOAD AND INSTALL AND PLAY FNF OR OMINOUS ENGINE NORMALLY, GO TO ITCH.IO TO DOWNLOAD THE GAME FOR PC, MAC, AND LINUX!!
 
 https://ninja-muffin24.itch.io/funkin
+https://ominousdeveloper.itch.io/funkin (In-development)
 
 IF YOU WANT TO COMPILE THE GAME YOURSELF, READ `building.md` OR CONTINUE READING!!!
 
@@ -88,7 +89,7 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 
-## Important Information
+### Important Information
 
 Check the docs folder for information
 
@@ -96,8 +97,29 @@ Read `building.md` to compile, it has all the information that you need for comp
 
 
 
-# Play the game on android
+### Play the game on android
 
 For Ominous Engine on android, go to the `android` branch 
 
 I know that the funkin-android will pop up, that's because i will start doing android port when I finish PC Port
+
+
+### Additional Code for Ominous Engine
+
+You can add this if you want its not ignored or anything
+
+Just make a file in `/source` and name it `FunkinKey.hx`
+
+```haxe
+
+package;
+
+import Discord.hx
+import ModCore from Kade Engine
+
+
+class FunkinKeys;
+
+```
+
+This code is invalid but it helps increasing FPS
