@@ -114,7 +114,7 @@ Just make a file in `/source` and name it `FunkinKey.hx`
 
 package;
 
-import Discord.hx
+import Discord
 import ModCore from Kade Engine
 
 
