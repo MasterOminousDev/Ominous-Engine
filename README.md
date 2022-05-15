@@ -69,7 +69,7 @@ You'll also need to install a couple things that involve Gits. To do this, you n
 You should have everything ready for compiling the game! Follow the guide below to continue!
 
 At the moment, you can optionally fix the transition bug in songs with zoomed-out cameras.
-- Run `haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons` in the terminal/command-prompt.
+- Run `haxelib git flixel-addons https://github.com/MasterOminousDev/flixel-addons` in the terminal/command-prompt.
 
 
 
