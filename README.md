@@ -23,7 +23,7 @@ Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
 Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
-IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL PLS BUT ITS NOT REALLY IMPORTANT BUT PEOPLE WHO WANTS TO COMPILE A MOD'S SOURCE CODE WOULD LIKE YOU TO OPEN SOURCE YOUR MODS!
+IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
 
 ## Ominous Engine
 
