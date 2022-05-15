@@ -93,7 +93,7 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 
 Check the docs folder for information
 
-Read `building.md` to compile, it has all the information that you need for compiling the game.
+Read `building.md` to compile, it has all the information that you need for compiling the game, and more!
 
 
 
