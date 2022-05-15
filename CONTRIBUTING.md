@@ -1,10 +1,10 @@
 # More Information on Contributing to the Engine
 
 ## Branches
-`stable` is the repository's main branch, so people can clone a stable Ominous Engine to work on their mods. However, this means that Pull Requests will default to merge into
-`stable` instead of `master`.
+`master` is the repository's main branch, but people need clone a stable Ominous Engine to work on their mods so I am focusing on making the engine stable. However, this means that Pull Requests will default to merge into
+`master` instead of `stable`.
 
 ### If your pull request changes the engine, it merges into MASTER.
-### If your pull request changes the website, it merges into STABLE.
+
 
 This really took this long to document. Ask KadeDev or something
