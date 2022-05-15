@@ -30,7 +30,7 @@
 	 - `haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit`
 	 - `haxelib git faxe https://github.com/uhrobots/faxe`
 	 - `haxelib git polymod https://github.com/MasterOminousDev/polymod.git`
-	 - `haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc`
+	 - `haxelib git discord_rpc https://github.com/MasterOminousDev/linc_discord-rpc`
 	 - `haxelib git extension-webm https://github.com/MasterOminousDev/extension-webm`
 	 - `lime rebuild extension-webm <ie. windows, macos, linux>`
 	      - Note: for Linux, you need to install the `g++-multilib` and `gcc-multilib` packages respectively. (use apt to install them.)
