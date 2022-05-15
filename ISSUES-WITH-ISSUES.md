@@ -8,7 +8,7 @@ An issue should adhere to one of the two templates, Bug Report or Enhancement. (
 
 An issue should NOT be related to any problems in forks or mods of Ominous Engine.
 
-What the individual issue templates are for is self-explanatory, but please ACTUALLY ACTUALLY use them. Don't just leave them blank and put all or partial info in the title.
+What the individual issue templates are for is self-explanatory, but please ACTUALLY ACTUALLY ACTUALLY use them. Don't just leave them blank and put all or partial info in the title.
 
 
 ## Discussions
