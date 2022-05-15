@@ -7,4 +7,6 @@
 ### If your pull request changes the engine, it merges into MASTER.
 
 
+Just kidding there isn't a master branch
+
 This really took this long to document. Ask KadeDev or something
