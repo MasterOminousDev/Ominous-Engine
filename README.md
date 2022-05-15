@@ -101,7 +101,7 @@ Read `building.md` to compile, it has all the information that you need for comp
 
 For Ominous Engine on android, go to the `android` branch 
 
-I know that the funkin-android will pop up, that's because i will start doing android port when I finish PC Port
+I know that the original fnf android code will pop up, that's because i will start doing android port when I finish PC Port
 
 
 
