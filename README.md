@@ -104,22 +104,18 @@ For Ominous Engine on android, go to the `android` branch
 I know that the funkin-android will pop up, that's because i will start doing android port when I finish PC Port
 
 
-### Additional Code for Ominous Engine
-
-You can add this if you want its not ignored or anything
-
-Just make a file in `/source` and name it `FunkinKey.hx`
-
-```haxe
-
-package;
-
-import Discord
-import ModCore from Kade Engine
 
 
-class FunkinKeys;
 
-```
 
-This code is invalid but it helps with mods.
+
+
+
+
+
+
+
+
+
+
+
